@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eli-n-ant197
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python web development(HTML, CSS, Javascript, PHP)
-- 💞️ I’m looking to collaborate on anything that has to do with code (not yet, busy with uni)
+- 💞️ I’m looking to collaborate on anything that has to do with code 
 - 📫 How to reach me: message me here or send me an email at elinantgr@gmail.com 
 
 <!---
